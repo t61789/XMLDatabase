@@ -15,7 +15,6 @@ namespace XMLDatabase
         public Form1()
         {
             InitializeComponent();
-
         }
     }
 }
